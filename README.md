@@ -19,3 +19,5 @@ Müşterilere email göndermek istiyorsanız veri tabanında yer alan "Mail" tab
 ![TopluMail](https://github.com/merenisler/Misafirhane/assets/142229251/7a2c6ca0-e235-4c6d-9fef-9e9b2dbf7116)
 
 https://bionluk.com/erenisler2
+
+!NOT: Uygulamyı kendi idenizde çalıştırmanız için Bunifu paketi yüklemeniz gerekli
