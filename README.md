@@ -20,4 +20,6 @@ Müşterilere email göndermek istiyorsanız veri tabanında yer alan "Mail" tab
 
 https://bionluk.com/erenisler2
 
+https://medium.com/@eren.isler.123.321
+
 !NOT: Uygulamyı kendi idenizde çalıştırmanız için Bunifu paketi yüklemeniz gerekli
